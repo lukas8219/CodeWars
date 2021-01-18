@@ -1,0 +1,54 @@
+
+Testing with 0 different characteres
+Elapsed with HashSet: 0 seconds.
+Size at 0
+Elapsed with TreeSet: 0 seconds.
+Size at 1
+
+Testing with 1 different characteres
+Elapsed with HashSet: 0 seconds.
+Size at 2
+Elapsed with TreeSet: 0 seconds.
+Size at 2
+
+Testing with 2 different characteres
+Elapsed with HashSet: 0 seconds.
+Size at 6
+Elapsed with TreeSet: 0 seconds.
+Size at 6
+
+Testing with 3 different characteres
+Elapsed with HashSet: 0 seconds.
+Size at 24
+Elapsed with TreeSet: 0 seconds.
+Size at 24
+
+Testing with 4 different characteres
+Elapsed with HashSet: 0 seconds.
+Size at 120
+Elapsed with TreeSet: 0 seconds.
+Size at 120
+
+Testing with 5 different characteres
+Elapsed with HashSet: 0 seconds.
+Size at 720
+Elapsed with TreeSet: 0 seconds.
+Size at 720
+
+Testing with 6 different characteres
+Elapsed with HashSet: 0 seconds.
+Size at 5040
+Elapsed with TreeSet: 0 seconds.
+Size at 5040
+
+Testing with 7 different characteres
+Elapsed with HashSet: 0 seconds.
+Size at 40320
+Elapsed with TreeSet: 1 seconds.
+Size at 40320
+
+Testing with 8 different characteres
+Elapsed with HashSet: 15 seconds.
+Size at 362880
+Elapsed with TreeSet: 14 seconds.
+Size at 362880
